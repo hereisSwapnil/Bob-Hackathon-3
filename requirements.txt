@@ -1,0 +1,8 @@
+tensorflow
+pandas
+requests
+beautifulsoup4
+transformers
+dash
+dash-core-components
+dash-html-components
